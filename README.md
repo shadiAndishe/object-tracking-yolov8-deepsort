@@ -1,1 +1,1 @@
-# object-tracking-yolov8-deepsort
+# object-tracking-FasterRCNN-deepsort
